@@ -1,2 +1,21 @@
+# large sequencing / alignment files
 *.fastq
 *.bam
+*.bai
+*.fa
+*.fasta
+
+# CNV / WIG intermediates
+*.wig.tmp
+
+# results folder (optional but recommended for pipeline reproducibility)
+results/
+
+# Python cache
+__pycache__/
+
+# large installer / local tools
+Miniconda3-latest-Linux-x86_64.sh
+
+# embedded repos
+hmmcopy_utils/
