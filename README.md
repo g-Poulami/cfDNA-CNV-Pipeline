@@ -58,3 +58,16 @@ The critical output is found in `SRR5543231_Final.params.txt`.
 - **purity**: The percentage of tumor content.
 - **ploidy**: The average DNA content of the tumor cells.
  
+
+## Execution Workflow
+The following steps outline the automated analysis logic:
+
+```mermaid
+graph TD
+    A[Raw Reads] --> B[WIG Generation]
+    B --> C{Bin Synchronization}
+    C -->|Match 1MB| D[GC/Map Correction]
+    D --> E[HMM Segmentation]
+    E --> F[EM Algorithm Purity Check]
+    F --> G[Final Tumor Fraction Output]
+```
