@@ -1,0 +1,13 @@
+name: cnv-env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - r-base=4.3
+  - r-essentials
+  - bioconductor-genomicranges
+  - samtools
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
