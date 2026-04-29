@@ -19,6 +19,8 @@ jobs:
           use-public-rspm: true
 
       - name: Install dependencies
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           install.packages(c("remotes", "optparse", "data.table"))
           remotes::install_github("broadinstitute/ichorCNA")
