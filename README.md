@@ -1,3 +1,5 @@
+![Build Status](https://github.com/g-Poulami/cfDNA-CNV-Pipeline/actions/workflows/r_lint.yml/badge.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+
 # cfDNA Copy Number Variation (CNV) Pipeline
 
 This repository contains a complete bioinformatics pipeline for estimating tumor fraction and detecting copy number alterations from cell-free DNA (cfDNA) sequencing data using **ichorCNA** and **HMMcopy**.
