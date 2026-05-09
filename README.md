@@ -4,7 +4,7 @@
 [![BWA-MEM](https://img.shields.io/badge/Aligner-BWA--MEM-purple?style=flat-square)](http://bio-bwa.sourceforge.net/)
 [![Picard](https://img.shields.io/badge/Tools-Picard-orange?style=flat-square)](https://broadinstitute.github.io/picard/)
 [![CBS](https://img.shields.io/badge/Segmentation-CBS-teal?style=flat-square)](https://bioconductor.org/packages/DNAcopy/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
 
 ---
