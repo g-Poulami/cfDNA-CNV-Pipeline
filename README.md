@@ -114,7 +114,7 @@ python run_pipeline.py --config config.yaml --threads 8
 
 **Poulami Ghosh** — [@g-Poulami](https://github.com/g-Poulami)
 
-[LinkedIn](https://linkedin.com/in/poulami-ghosh-879439304) · [Google Scholar](https://scholar.google.com/scholar?q=Poulami+Ghosh) · poulamighosh738@gmail.com
+[LinkedIn](https://linkedin.com/in/poulami-ghosh-879439304) · poulamighosh738@gmail.com
 
 ---
 
